@@ -59,6 +59,10 @@
 - **Email:** sinla9302@gmail.com
 - **GitHub:** https://github.com/your-username
 
+- ### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellechanson&layout=compact&theme=dark)
+
 ---
 
 ### 💡 Dev Quote
