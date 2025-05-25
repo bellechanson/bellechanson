@@ -14,6 +14,8 @@
 
 ### 🔧 Tech Stack
 
+---
+
 #### 🛠 Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
