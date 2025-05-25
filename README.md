@@ -1,4 +1,4 @@
-###  minseop Dev Profile
+###  💻minseop Dev Profile
 
 **Backend Developer | Java · Spring Boot · React · Elasticsearch · WebSocket**
 
