@@ -1,4 +1,4 @@
-#  minseop Dev Profile
+###  minseop Dev Profile
 
 **Backend Developer | Java · Spring Boot · React · Elasticsearch · WebSocket**
 
@@ -14,7 +14,6 @@
 
 ### 🔧 Tech Stack
 
----
 
 #### 🛠 Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
