@@ -57,7 +57,7 @@
 ### 📫 Contact
 
 - **Email:** sinla9302@gmail.com
-- **GitHub:** [github.com/your-username](https://github.com/your-username)](https://github.com/bellechanson)
+- **GitHub:** https://github.com/your-username
 
 ---
 
