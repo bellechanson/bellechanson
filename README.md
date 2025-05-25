@@ -50,13 +50,13 @@
 > **그룹 서비스 (Group Service)**  
 - 스터디 그룹 생성 / 신청 / 관리 기능  
 - WebSocket 기반의 **실시간 채팅** 기능  
-- 커리큘럼 관리, 팀원 승인 및 참여 동기 조회 등
+- 커리큘럼 관리, 팀원 승인 및 거절 관리등
 
 ---
 
 ### 📫 Contact
 
-- **Email:** your-email@example.com  
+- **Email:** sinla9302@gmail.com
 - **GitHub:** [github.com/your-username](https://github.com/your-username)
 
 ---
