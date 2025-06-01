@@ -56,9 +56,9 @@
 
 ### 📂 Team Projects
 
-#### 📂 InterTicket - 공연 예약 티켓 출력 미니 프로젝트
+#### 📂 InterTicket - 공연 예약 시스템 (Mini Project)
 
-> **예매 서비스**
+> **예매 서비스 (ticket-service)**
 - 예메 서비스	메세지 미들웨어 설계 , MQ 발행 로직 구현
 
 ---
