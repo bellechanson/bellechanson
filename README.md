@@ -54,6 +54,13 @@
 
 ---
 
+### 📂 Team Projects
+
+#### 📂 InterTicket - 공연 예약 티켓 출력 미니 프로젝트
+
+> **예매 서비스
+- 예메 서비스	메세지 미들웨어 설계 , MQ 발행 로직 구현
+
 ### 📫 Contact
 
 - **Email:** sinla9302@gmail.com
