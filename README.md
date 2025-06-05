@@ -82,7 +82,7 @@
 ---
 
 ### ⚙️ CompanyProject README.md
-https://github.com/chd000125/MSA-STUDYLOG
+[https://github.com/chd000125/MSA-STUDYLOG](https://github.com/bellechanson/StudyLog)
 
 ### ⚙️ TeamProject README.md
 https://github.com/leeytkfng/MSA-Perpomance-Service
