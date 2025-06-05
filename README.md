@@ -85,7 +85,6 @@
 https://github.com/bellechanson/StudyLog
 
 ### ⚙️ TeamProject README.md
-https://github.com/leeytkfng/MSA-Perpomance-Service
-
+https://github.com/bellechanson/InterTicket
 
 
