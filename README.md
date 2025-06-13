@@ -20,6 +20,7 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=flat-square&logo=Hibernate&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-008080?style=flat-square&logo=websocket&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 
 #### 🔍 Search & Messaging
