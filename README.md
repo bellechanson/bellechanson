@@ -89,4 +89,5 @@ https://github.com/bellechanson/StudyLog
 ### ⚙️ TeamProject README.md
 https://github.com/bellechanson/InterTicket
 
+![취업캠프 수료증](https://github.com/user-attachments/assets/06e84fb2-2038-47b9-b9b8-75afcad40827)
 
